@@ -1,0 +1,279 @@
+{
+	"news_data": [{
+		"category_name": "Headlines",
+		"news": [{
+				"image": "",
+				"headline": "Omar Abdullah meets J&K Governor, demands statement from govt on Kashmir situation",
+				"content": "Omar Abdullah demanded the government to issue a statement that the people of Jammu and Kashmir do not need to be afraid. \n Omar Abdullah said the Governor assured that no preparation is being made for any announcement."
+			},
+			{
+				"image": "",
+				"headline": "Parliament Session May be Extended Till August 9 as Govt Introduces Record Number of Bills",
+				"content": "Not enough time was given to us to even issue whip on the Triple Talaq Bill, said Anand Sharma, \n Congress deputy leader in the Rajya Sabha, when asked about the five Congress MPs who were not present during voting on the legislation on Tuesday. \n The opposition motion to send the Triple Talaq Bill to a select committee of Parliament for a larger discussion with stakeholders was defeated in the Upper House."
+			},
+			{
+				"image": "",
+				"headline": "Isro releases first set of earth pictures captured by Chandrayaan 2",
+				"content": "The Indian Space Research Organisation (Isro) on Sunday released the first set of images captured by Chandrayaan 2, \n India s second lunar mission. The onboard camera captured pictures of Earth as viewed in space. ISRO said the images were taken by the LI4 \n camera on Vikram, the lander on Chandrayaan 2. The images were clicked on August 3, ISRO said. \n Chandrayaan 2 is a Rs 978 crore project, with which India hopes to soft land a probe on Moon, while also put a satellite around its orbit."
+			},
+			{
+				"image": "",
+				"headline": "",
+				"content": " "
+			},
+			{
+				"image": "",
+				"headline": "Parliament Session May be Extended Till August 9 as Govt Introduces Record Number of Bills",
+				"content": "Not enough time was given to us to even issue whip on the Triple Talaq Bill, said Anand Sharma, \n Congress deputy leader in the Rajya Sabha, when asked about the five Congress MPs who were not present during voting on the legislation on Tuesday. \n The opposition motion to send the Triple Talaq Bill to a select committee of Parliament for a larger discussion with stakeholders was defeated in the Upper House."
+			},
+			{
+				"image": "",
+				"headline": "Parliament Session May be Extended Till August 9 as Govt Introduces Record Number of Bills",
+				"content": "Not enough time was given to us to even issue whip on the Triple Talaq Bill, said Anand Sharma, \n Congress deputy leader in the Rajya Sabha, when asked about the five Congress MPs who were not present during voting on the legislation on Tuesday. \n The opposition motion to send the Triple Talaq Bill to a select committee of Parliament for a larger discussion with stakeholders was defeated in the Upper House."
+			}
+		]
+	},
+	{
+		"category_name": "Entertainment",
+		"news": [{
+				"image": "",
+				"headline": "Chhichhore trailer: Sushant Singh Rajput, Shraddha Kapoor celebrate Friendship Day by retelling 3 Idiots,\n Dil Chahta Hai",
+				"content": "The trailer for Dangal director Nitesh Tiwari next, Chhichhore is out. Lead actors Sushant Singh Rajput and Shraddha Kapoor \n shared the film trailer on social media on Friendship Day, Sunday. The film releases on August 30 \n and will clash with Prabhas and Shraddha starrer Saaho."
+			},
+			{
+				"image": "",
+				"headline": "Wouldnot be surprised if I go through ups and downs in my career again: Akshay Kumar",
+				"content": "Superstar Akshay Kumar has seen both good and bad phases in his career and he believes it is important \n to learn from such experiences as nothing is permanent in life.The actor said he has seen people write an obituary of his career \n after a string of flops but he has always made a strong comeback."
+			},
+			{
+				"image": "",
+				"headline": "On Kishore Kumars 90th birth anniversary, 10 lesser known facts about the maverick genius",
+				"content": "Born into a family of comfortable means, Kishores father Kunjalal Ganguly was employed as a personal lawyer \n with a wealthy family of Khandwa, Madhya Pradesh. Born Abhas Kumar Ganguly in 1929, Kishore was the youngest of his four siblings including Ashok, Sati Devi and Anoop.\n When Kishore was still a child, his older brother Ashok ventured into films and became a big star in the Bombay film industry."
+			},
+			{
+				"image": "",
+				"headline": "Shah Rukh Khan to turn a Money Heist into a Bollywood film",
+				"content": "Money Heist revovles around an elusive criminal mastermind known as The Professor with a plan to pull off the biggest heist in history,\n by printing billions of euros in the Royal Mint of Spain. To help him, he recruits eight people with certain abilities who have nothing to lose.\n Season four of the hugely successful show is currently in production."
+			}
+		]
+	},
+        {
+                "category_name": "Politics",
+		"news": [{
+				"image": "",
+				"headline": "__headline_1",
+				"content": "__Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1"
+			},
+			{
+				"image": "",
+				"headline": "__headline_2",
+				"content": "__Content2 Content2 Content2 Content2 Content2 Content2 Content2 Content2"
+			},
+			{
+				"image": "",
+				"headline": "__ABC_",
+				"content": "__ABC__Xyz"
+			},
+			{
+				"image": "",
+				"headline": "__LMN_",
+				"content": "__LMX__OPS"
+			}
+		]
+	},
+        {
+                "category_name": "Health",
+		"news": [{
+				"image": "",
+				"headline": "__headline_1",
+				"content": "__Content1___- Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1"
+			},
+			{
+				"image": "",
+				"headline": "__headline_2",
+				"content": "__Content2 ___Content2 Content2 Content2 Content2 Content2 Content2 Content2"
+			},
+			{
+				"image": "",
+				"headline": "__A-B-C_",
+				"content": "__A-B-C__Xyz"
+			},
+			{
+				"image": "",
+				"headline": "__L-M-N_",
+				"content": "__L-M-X__OPS"
+			}
+		]
+	},
+        {
+                "category_name": "Business",
+		"news": [{
+				"image": "",
+				"headline": "CCD founder: First victim of India's economic distress?",
+				"content": "The Coffee Day Enterprises founder VG Siddhartha, who had gone missing on Monday and his body was fished out a day later from the Netravati river, \n might have been the first casualty of ongoing distress in the Indian economy. Siddhartha, according to the sources in the know, has taken a personal debt of Rs 500 crore to service the debt of companies he owned.\n The numbers of his Coffee Day Enterprises were not that convincing. So to keep credit lines going,Siddhartha had taken the personal loans, a friend of Siddhartha told DH."
+			},
+			{
+				"image": "",
+				"headline": "Bharti Airtel slips into red, posts Rs 2,866 crore loss in June Quarter",
+				"content": "Airtel had logged a net profit of Rs 97 crore in the same period of the previous year, the company said in a statement.The revenue of the \n Sunil Mittal-led company rose 4.7 per cent to \n Rs 20,738 crore during the first quarter ended June 2019 Rs 20,738 crore during the first quarter ended June 2019. "
+			},
+			{
+				"image": "",
+				"headline": "Explained: Why Maruti Suzuki sales are dropping.",
+				"content": "Industry insiders feel that while the pressure on NBFC and liquidity squeeze in the market is a big factor,\n the decline in customer confidence is another factor that is leading to a continuous slide in sales of passenger cars.India biggest passenger car manufacturer \n Maruti Suzuki announced a 36.2 per cent drop in passenger car sales in the month of July 2019. "
+			},
+			{
+				"image": "",
+				"headline": "Tata Motors cuts Tigor EV price by up to Rs 80k",
+				"content": "Tata Motors on August 1 said it has decided to cut prices of Tigor EV by up to Rs 80,000 with immediate effect\n in order to pass the benefits of reduced GST on such models.The Tigor EV which was earlier priced between Rs 12.35-12.71 lakh (ex-showroom, Mumbai) will now be \n available at a starting price of Rs 11.58-11.92 lakh, Chandra said."
+			},
+			{
+				"image": "",
+				"headline": "__LMN",
+				"content": "__LMX OPS"
+			},
+			{
+				"image": "",
+				"headline": "__LMN",
+				"content": "__LMX OPS"
+			}
+		]
+	},
+        {
+                "category_name": "Science",
+		"news": [{
+				"image": "",
+				"headline": "Astronomers are probing faraway planets with greater sophistication",
+				"content": "In the deluge of planets found beyond the solar system over the past decade, those of system toi-270 might not seem special.\n There are three of them, orbiting a star 73 light-years away. This is neither the closest system known, nor does it contain the most \n Earthlike exoplanet. It has, though, sent a buzz through astronomy."
+			},
+			{
+				"image": "",
+				"headline": "New 3D map shows Milky Way is not shaped like pancake but a warped wave",
+				"content": "The new map, created by the University of Warsaw, was created by mapping over 2,400 cepheids that are scattered throughout the galaxy.\n Astronomers have charted a stellar three-dimensional map of the Milky Way that shows its disc of stars dramatically warped into a wave. \nThe latest image once again proves that the spiral galaxy is not shaped like a flat disc."
+			},
+			{
+				"image": "",
+				"headline": "Asteroid danger: Neil deGrasse Tyson warns of harbinger of doom space rock threat",
+				"content": "ASTROPHYSICIST Neil deGrasse Tyson has warned of harbinger of doom asteroids threatening to wipe out all life on Earth.\nAsteroids and meteors of all shapes and sizes fly past the Earth on a nearly daily basis. Space agency NASA estimates hundreds of tonnes of space debris and rocks\n safely pelt the planet atmosphere every single day. Larger, car-sized asteroids, are said to strike the Earth roughly once a year,\n causing small amounts of localised damage.The real threat comes from asteroids many miles wide, which astrophysicist Neil deGrasse Tyson\n said could spell an end for humanity. "
+			},
+			{
+				"image": "",
+				"headline": "__LMN_",
+				"content": "__LMX__OP_S"
+			},
+			{
+				"image": "",
+				"headline": "__LMN",
+				"content": "__LMX OPS"
+			},
+			{
+				"image": "",
+				"headline": "__LMN",
+				"content": "__LMX OPS"
+			}
+		]
+	},
+        {
+                "category_name": "Technology",
+		"news": [{
+				"image": "",
+				"headline": "__headline__1",
+				"content": "__Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1_"
+			},
+			{
+				"image": "",
+				"headline": "__headline__2",
+				"content": "__Content2 Content2 Content2 Content2 Content2 Content2 Content2 Content2_"
+			},
+			{
+				"image": "",
+				"headline": "__ABC__",
+				"content": "__ABC__Xyz_"
+			},
+			{
+				"image": "",
+				"headline": "__LMN__",
+				"content": "__LMX__OPS_"
+			},
+			{
+				"image": "",
+				"headline": "__LMN",
+				"content": "__LMX OPS"
+			},
+			{
+				"image": "",
+				"headline": "__LMN",
+				"content": "__LMX OPS"
+			}
+		]
+	},
+        {
+                "category_name": "Education",
+		"news": [{
+				"image": "",
+				"headline": "__headline-__1",
+				"content": "__Content1 --Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1_"
+			},
+			{
+				"image": "",
+				"headline": "__headline__2",
+				"content": "__Content2 --Content2 Content2 Content2 Content2 Content2 Content2 Content2_"
+			},
+			{
+				"image": "",
+				"headline": "__ABC_-_",
+				"content": "__ABC__-Xyz_"
+			},
+			{
+				"image": "",
+				"headline": "__LMN__-",
+				"content": "__LMX__OP-S_"
+			},
+			{
+				"image": "",
+				"headline": "__LMN",
+				"content": "__LMX OPS"
+			},
+			{
+				"image": "",
+				"headline": "__LMN",
+				"content": "__LMX OPS"
+			}
+		]
+	},
+        {
+                "category_name": "Sports",
+		"news": [{
+				"image": "",
+				"headline": "We have to respect Virat Kohli's opinion on coach selection: Kapil Dev",
+				"content": ""
+			},
+			{
+				"image": "",
+				"headline": "__headline__2",
+				"content": "__Content2 --Content2 Content2 Content2 Content2 Content2 Content2 Content2_"
+			},
+			{
+				"image": "",
+				"headline": "__ABC_-_",
+				"content": "__ABC__-Xyz_"
+			},
+			{
+				"image": "",
+				"headline": "__LMN__-",
+				"content": "__LMX__OP-S_"
+			},
+			{
+				"image": "",
+				"headline": "__LMN",
+				"content": "__LMX OPS"
+			},
+			{
+				"image": "",
+				"headline": "__LMN",
+				"content": "__LMX OPS"
+			}
+		]
+	}
+]
+}
