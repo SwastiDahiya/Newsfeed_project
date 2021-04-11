@@ -9,7 +9,7 @@ class Home(Frame):
 
         #Image load..
         self.img = ImageTk.PhotoImage(Image.open('news.png'))
-        self.i = Label(self,image = self.img,bg = 'orange',width = 850)
+        self.i = Label(self,image = self.img,bg = 'teal',width = 850)
         self.i.grid(row = 1,columnspan = 9)
 
         #File load..
@@ -18,15 +18,15 @@ class Home(Frame):
         self.category_data_labels = []
 
         #add button on screen for each category..
-        self.b1 = Button(self,font = ('Times New Roman',10),bg = 'pink',width = 12,text = self.category_lists[0],command = self.b1)
-        self.b2 = Button(self,font = ('Times New Roman',10),bg = 'pink',width = 12,text = self.category_lists[1],command = self.b2)
-        self.b3 = Button(self,font = ('Times New Roman',10),bg = 'pink',width = 12,text = self.category_lists[2],command = self.b3)
-        self.b4 = Button(self,font = ('Times New Roman',10),bg = 'pink',width = 12,text = self.category_lists[3],command = self.b4)
-        self.b5 = Button(self,font = ('Times New Roman',10),bg = 'pink',width = 12,text = self.category_lists[4],command = self.b5)
-        self.b6 = Button(self,font = ('Times New Roman',10),bg = 'pink',width = 12,text = self.category_lists[5],command = self.b6)
-        self.b7 = Button(self,font = ('Times New Roman',10),bg = 'pink',width = 12,text = self.category_lists[6],command = self.b7)
-        self.b8 = Button(self,font = ('Times New Roman',10),bg = 'pink',width = 12,text = self.category_lists[7],command = self.b8)
-        self.b9 = Button(self,font = ('Times New Roman',10),bg = 'pink',width = 12,text = self.category_lists[8],command = self.b9)
+        self.b1 = Button(self,font = ('Times New Roman',10),bg = 'teal',fg = 'white',width = 12,text = self.category_lists[0],command = self.b1)
+        self.b2 = Button(self,font = ('Times New Roman',10),bg = 'teal',fg = 'white',width = 12,text = self.category_lists[1],command = self.b2)
+        self.b3 = Button(self,font = ('Times New Roman',10),bg = 'teal',fg = 'white',width = 12,text = self.category_lists[2],command = self.b3)
+        self.b4 = Button(self,font = ('Times New Roman',10),bg = 'teal',fg = 'white',width = 12,text = self.category_lists[3],command = self.b4)
+        self.b5 = Button(self,font = ('Times New Roman',10),bg = 'teal',fg = 'white',width = 12,text = self.category_lists[4],command = self.b5)
+        self.b6 = Button(self,font = ('Times New Roman',10),bg = 'teal',fg = 'white',width = 12,text = self.category_lists[5],command = self.b6)
+        self.b7 = Button(self,font = ('Times New Roman',10),bg = 'teal',fg = 'white',width = 12,text = self.category_lists[6],command = self.b7)
+        self.b8 = Button(self,font = ('Times New Roman',10),bg = 'teal',fg = 'white',width = 12,text = self.category_lists[7],command = self.b8)
+        self.b9 = Button(self,font = ('Times New Roman',10),bg = 'teal',fg = 'white',width = 12,text = self.category_lists[8],command = self.b9)
 
         #griding of all Buttons..
         self.b1.grid(row = 0,column = 0)
@@ -45,54 +45,72 @@ class Home(Frame):
         root = Tk()
         obj = Headlines(root)
         root.title('Headlines')
+        root.geometry("1040x530")
+        root.configure(bg = 'teal')
         root.mainloop()
     
     def b2(self):
         root = Tk()
         obj = Entertainment(root)
         root.title('Entertainment')
+        root.geometry("990x450")
+        root.configure(bg = 'teal')
         root.mainloop()
     
     def b3(self):
         root = Tk()
         obj = Politics(root)
         root.title('Politics')
+        root.geometry("1055x410")
+        root.configure(bg = 'teal')
         root.mainloop()
     
     def b4(self):
         root = Tk()
         obj = Health(root)
         root.title('Health')
+        root.geometry("1160x410")
+        root.configure(bg = 'teal')
         root.mainloop()
     
     def b5(self):
         root = Tk()
         obj = Business(root)
         root.title('Business')
+        root.geometry("1090x620")
+        root.configure(bg = 'teal')
         root.mainloop()
     
     def b6(self):
         root = Tk()
         obj = Science(root)
         root.title('Science')
+        root.geometry("1040x665")
+        root.configure(bg = 'teal')
         root.mainloop()
     
     def b7(self):
         root = Tk()
         obj = Technology(root)
         root.title('Technology')
+        root.geometry("1085x545")
+        root.configure(bg = 'teal')
         root.mainloop()
     
     def b8(self):
         root = Tk()
         obj = Education(root)
         root.title('Education')
+        root.geometry("1040x530")
+        root.configure(bg = 'teal')
         root.mainloop()
     
     def b9(self):
         root = Tk()
         obj = Sports(root)
         root.title('Sports')
+        root.geometry("1280x410")
+        root.configure(bg = 'teal')
         root.mainloop()
 
 class Headlines(Frame):
@@ -412,6 +430,7 @@ class Sports(Frame):
         
 root = Tk()
 obj = Home(root)
-root.configure(bg = 'orange')
+root.configure(bg = 'teal')
+root.geometry('855x435')
 root.title('NewsFeed')
 root.mainloop()
